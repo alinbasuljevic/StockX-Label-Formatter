@@ -13,6 +13,6 @@ Formats all StockX shipping labels. Easier to print on Avery Self-Adhesive Label
 
 -Upcoming Features:
 
--Multiple Label Support
+***-Multiple Label Support***
 
--Possible Interactive GUI
+***-Possible Interactive GUI***
